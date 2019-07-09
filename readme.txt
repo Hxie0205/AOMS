@@ -4,4 +4,4 @@ hhaajajajjajajajj
 4.GLP...................
 5.git is nbb
 My stupid boss still prefers SVN.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
