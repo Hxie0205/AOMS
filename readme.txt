@@ -5,5 +5,4 @@ hhaajajajjajajajj
 5.git is nbb
 My stupid boss still prefers SVN.
 Creating a new branch is quick AND simple.
-test merge brand..................
-test bug branch...........
+test dev branch merg to  master..
