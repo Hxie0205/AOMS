@@ -6,4 +6,5 @@ hhaajajajjajajajj
 My stupid boss still prefers SVN.
 Creating a new branch is bug bug.
 test merge brand..................
-
+Creating a new branch is quick AND simple.
+test dev branch merg to  master..
